@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{128:function(e,a,n){"use strict";n.r(a);var t=n(0),c=n.n(t),l=n(23),r=n(39);a.default=function(){return c.a.createElement(r.a,null,c.a.createElement(l.Header,{as:"h2"},"Dynamic Page"),c.a.createElement("p",null,"This page was loaded asynchronously!!!"))}}}]);
